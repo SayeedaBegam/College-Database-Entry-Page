@@ -1,0 +1,61 @@
+<html>
+<head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <!-----------font awesome---------->
+
+    <link rel="Stylesheet" href="blog1.css">
+</head>
+<body>
+    <!--------Blog section---------->
+    <div class="container">
+        <div class="row">
+            <div class="header">
+                <h1>Blog 1</h1>
+                <p><span>Simply a word to describe a method of organizing our mind</span></p>
+            </div>
+            <div class="canvas-warp">
+                <canvas id="canvas"></canvas>
+            </div>
+            <div class="content">
+                <h1>Chapter One: The Beginning</h1><br>
+                
+                    <p>Everyone, welcome to my first blog! :)</p><br>
+
+                    <p>Let's get started with my adventure into engineering in this chapter!<br></p>
+                    
+                    
+                    <p>During the year following high school, I attempted to retake my NEET exam, but I was unable to do so, so I chose to change my major.
+                    </p><br>
+                    
+                    <p>I sat down with my parents and siblings, took some time for myself, and researched a variety of career options and my interest and seek level toward each one, analysing each one and determining that engineering is the best option to explore and the most interesting when compared to other options.</p><br>
+                    
+                    <p>I missed out on the opportunity to study computer science or information technology at Puducherry Technological University (PTU) because of a slew of confusion in the application process, but I was able to secure a major in Mechatronics engineering at PTU in my third round, so called Pondicherry Engineering College.</p><br>
+                    
+                    <p>My college allows students to begin taking minors in their second year if they maintain a high GPA overall. The department will award you a minor based on your GPA and the sequence in which you list your courses.
+                    
+                    Computer science engineering has always been a subject I was interested in pursuing as a minor, but the competition has always been fierce. Despite the difficulties I encountered in my first two semesters, I managed to get a 9.65 grade point average, which was better than I could have dreamed for.</p><br>
+                    
+                    <p> Since I started engineering two years ago, this is the beginning of my journey.</p>
+                    
+                    <p>It's a lot more intricate behind the scenes.</p><br>
+
+                    <p>The focus of the upcoming blog posts will geared towards illuminating readers with my knowledge gained in my up-skill.
+
+                        So, keep in touch on LinkedIn to find out about the newest blog posts.
+                        
+                    </p>
+                    
+                    <p>The blog will be updated on a monthly basis with new content, so stay tuned!</p>
+            </div>
+
+        </div>
+    </div>
+
+
+    <script src = "wavy.js"></script>
+</body>
+</html>
